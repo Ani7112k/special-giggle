@@ -1,3 +1,3 @@
 # special-giggle
-This is only test subject using firebase
+This is only test subject using firebase authorization (email, pass)
 
